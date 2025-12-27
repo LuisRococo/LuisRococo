@@ -1,10 +1,10 @@
 ## Hi there 😁
 
-My name is [Luis Peña](https://www.linkedin.com/in/luis-roberto-pe%C3%B1a/). I am a Softare Engineer based in México.
+My name is [Luis Peña](https://www.linkedin.com/in/luis-roberto-pe%C3%B1a/). I am a Software Engineer based in México.
 
 I love finding solutions to problems through code and products.
 
-I stand out on Web Development areas like Backend, Frontend and Databases. I have worked in Mobile Development and arduino.
+I stand out on Web Development 👨‍💻 areas like Backend, Frontend and Databases. I have worked in Mobile Development 📱 and Arduino 🤖.
 
 Some of the technologies I use include:
 - React
